@@ -22,11 +22,6 @@ as positive, negative, or neutral using IBM watsonx.
 `legal_sentiment_dataset.csv` — a labeled dataset of legal document 
 excerpts with corresponding sentiment tags used for evaluation.
 
-## Results
-[Add your actual accuracy/metrics here, e.g.: "Achieved X% accuracy 
-against the labeled test set" — even one sentence with a real number 
-strengthens this a lot]
-
 ## Setup
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
